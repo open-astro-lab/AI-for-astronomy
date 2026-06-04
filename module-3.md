@@ -1,7 +1,5 @@
 ---
-layout: default
-title: AI for Astrophysics — Module 3
-description: Build and train a neural network to classify stars using real astronomical data.
+
 ---
 
 # AI for Astrophysics — Module 3
