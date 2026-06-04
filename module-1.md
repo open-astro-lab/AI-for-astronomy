@@ -1,7 +1,5 @@
 ---
-layout: default
-title: AI for Astrophysics — Module 1
-description: A beginner-friendly introduction to what AI and machine learning actually are.
+
 ---
 
 # AI for Astrophysics — Module 1
