@@ -1,7 +1,5 @@
 ---
-layout: default
-title: AI for Astrophysics — Module 2
-description: How machine learning methods are actually used in astrophysics research.
+
 ---
 
 # AI for Astrophysics — Module 2
