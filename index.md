@@ -5,7 +5,7 @@ This course introduces the exciting field of Artificial Intelligence (AI) and it
 Through hands-on examples and projects, you will learn how to apply AI techniques to real astronomical data and develop your own AI-powered astronomy projects. Whether you are a beginner in AI, astronomy, or both, this course provides a practical pathway to understanding how these two fields work together to advance our knowledge of the cosmos.
 
 
-## Modules
+## Modules- Proceed one by one, starting with module 1
 
 - [Module 1](module-1.md)
 - [Module 2](module-2.md)
