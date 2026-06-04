@@ -17,7 +17,7 @@ If you have ever heard terms like "machine learning," "neural network," or "deep
 You do **not** need to be a programmer yet.  
 You only need to be **willing to think**.
 
-![A wide view of the Milky Way over an observatory](https://apod.nasa.gov/apod/image/2501/MilkyWayTelescope_Cobianchi_2048.jpg)
+
 *Modern observatories collect more data every night than a human team could analyze in a lifetime. AI is how researchers keep up.*
 
 ---
@@ -36,7 +36,7 @@ No human team can process that.
 
 This is why AI entered astrophysics — not as a trend, but out of necessity. The universe is producing more information than we have hands to sort through.
 
-![The Square Kilometre Array telescope site in Western Australia](https://apod.nasa.gov/apod/image/2210/SKA_site_2022.jpg)
+
 *Construction of the Square Kilometre Array — when complete, it will require AI just to handle the data flow.*
 
 ---
@@ -65,8 +65,7 @@ Nobody gave you a precise mathematical definition of "dog." You were shown dogs 
 
 Machine learning works the same way. Instead of programming rules by hand, you feed a system thousands of examples and let it figure out the pattern itself.
 
-![Hubble Space Telescope image of various galaxy morphologies](https://apod.nasa.gov/apod/image/9802/galaxies_hst.jpg)
-*Galaxies come in many shapes — spiral, elliptical, irregular. Classifying them manually once took years. AI systems trained on labeled images can now do it in seconds.*
+
 
 This is why "machine learning" is called what it is. The machine is **learning** — adjusting itself based on the examples it sees — rather than following a fixed set of rules.
 
@@ -116,8 +115,8 @@ The model learns by trial and error, receiving rewards for good decisions and pe
 
 This is less common in astrophysics, but has applications in telescope scheduling and autonomous observation systems.
 
-![Schematic of supervised vs unsupervised learning concepts](https://apod.nasa.gov/apod/image/0002/deepfield_hst_big.jpg)
-*The Hubble Deep Field — thousands of galaxies in a single image. Sorting through data like this by hand is not realistic. Supervised learning changed that.*
+
+
 
 ---
 
