@@ -66,13 +66,13 @@ Your neural network will use the first four numerical columns to predict `Star t
 This is called **supervised learning** — the model learns from labeled examples.
 
 ![A simplified Hertzsprung-Russell diagram showing stellar classification regions](https://chandra.harvard.edu/edu/formal/stellar_ev/story/hr.jpg)
-*The HR Diagram you built in the previous course. Each region corresponds to a star type. Your neural network will learn these boundaries from data — without being told where they are.*
+*. Each region corresponds to a star type. Your neural network will learn these boundaries from data — without being told where they are.*
 
 ---
 
 ## Step 2: Loading the data
 
-Open your Colab notebook (link on the final page) and begin.
+Open your Colab notebook (https://colab.research.google.com/) and begin.
 
 The first thing to do is load the data and take a look at it.
 
@@ -80,7 +80,7 @@ The first thing to do is load the data and take a look at it.
 import pandas as pd
 
 # Load the dataset
-df = pd.read_csv('stars.csv')
+df = pd.read_csv('https://docs.google.com/spreadsheets/d/12G-HwAvH7waLkn0pA4mbuWjkw-C4SdMLeeG_a_rtOoc/edit?gid=139654193#gid=139654193')
 
 # See the first few rows
 df.head()
