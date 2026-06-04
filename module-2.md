@@ -16,8 +16,7 @@ Now the question is: what does that actually look like when applied to real astr
 
 This module walks through the specific problems where AI has changed how research is done — and the techniques used to solve them.
 
-![Thousands of galaxies in the Hubble Ultra Deep Field](https://apod.nasa.gov/apod/image/1308/xdf_hst_2000.jpg)
-*The Hubble Ultra Deep Field contains roughly 10,000 galaxies in a patch of sky smaller than a grain of sand held at arm's length. Classifying all of them by hand is simply not possible.*
+*
 
 ---
 
@@ -37,8 +36,7 @@ After training on hundreds of thousands of labeled images, the network learned t
 
 The same CNN approach is now used for: identifying gravitational lenses, detecting merging galaxies, and flagging unusual morphologies that might indicate new phenomena.
 
-![Hubble image showing a variety of galaxy types side by side](https://apod.nasa.gov/apod/image/0508/galaxies_hst_c55.jpg)
-*A sample of galaxy morphologies. Each shape carries information about a galaxy's history and physical state.*
+
 
 ---
 
@@ -60,8 +58,7 @@ Machine learning models — both traditional methods like **random forests** and
 
 The Gaia space mission, which has catalogued over a billion stars, uses automated classification pipelines that rely heavily on these methods.
 
-![Stellar spectra showing emission and absorption lines across different star types](https://apod.nasa.gov/apod/image/0105/obafgkm_noao.jpg)
-*Stellar spectra across the O, B, A, F, G, K, M classification sequence. Machine learning models process millions of spectra like these to automate classification at scale.*
+
 
 ---
 
@@ -81,8 +78,6 @@ This is now standard practice. Neural networks scan light curves automatically, 
 
 The technique has since been applied to gravitational microlensing — another planet-detection method — with similar success.
 
-![Kepler space telescope light curve showing a planetary transit dip](https://apod.nasa.gov/apod/image/1405/kepler186f_flores_1920.jpg)
-*Artist's impression of Kepler-186f, one of thousands of exoplanets found through automated analysis of light curve data.*
 
 ---
 
@@ -102,7 +97,7 @@ These models can identify signals in milliseconds rather than the hours required
 
 Several detections confirmed by LIGO have now been cross-checked against neural network classifiers as part of the standard pipeline.
 
-![Artist illustration of two black holes merging and emitting gravitational waves](https://apod.nasa.gov/apod/image/1602/BHmerger_LIGO_3600.jpg)
+
 *Two black holes spiraling toward merger — an event that sends gravitational waves across the universe. Detecting these faint signals in noisy data is exactly where AI has proven its value.*
 
 ---
