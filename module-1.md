@@ -11,6 +11,7 @@
 ## Who is this for?
 
 This module is for **anyone** — no background in AI, statistics, or advanced mathematics required.
+Video lecture- https://drive.google.com/file/d/1uNg7NDBbyIGhfP8pB1B5JmnKNAUxkPI3/view?usp=sharing
 
 If you have ever heard terms like "machine learning," "neural network," or "deep learning" and wondered what they actually mean beneath the buzzwords, this is where you find out.
 
