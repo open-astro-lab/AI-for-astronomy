@@ -11,6 +11,8 @@
 ## From concept to practice
 
 In Module 1, you learned what machine learning is at its core: systems that find patterns in data by learning from examples.
+Video lecture- https://drive.google.com/file/d/1l4W_3hApeXjqxXHPpY2uRHm0cazERpWu/view?usp=sharing
+
 
 Now the question is: what does that actually look like when applied to real astrophysics?
 
