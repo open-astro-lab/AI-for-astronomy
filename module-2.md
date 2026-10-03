@@ -40,6 +40,10 @@ This is a **supervised learning** problem. Researchers trained convolutional neu
 
 After training on hundreds of thousands of labeled images, the network learned to classify galaxies as accurately as a human expert, in a fraction of the time.
 
+![Spiral galaxy M51 Whirlpool](https://apod.nasa.gov/apod/image/2205/Whirlpool_Hubble_960.jpg)
+
+*Spiral structure like the Whirlpool Galaxy is one of the morphology classes AI models learn to recognize. (Hubble / NASA APOD)*
+
 The same CNN approach is now used for: identifying gravitational lenses, detecting merging galaxies, and flagging unusual morphologies that might indicate new phenomena.
 
 
@@ -122,7 +126,9 @@ Researchers train neural networks on a smaller number of full simulations, then 
 
 This approach, sometimes called **neural network emulation**, has reduced the computational cost of parameter estimation in cosmology by orders of magnitude. It is now used to constrain the properties of dark energy, dark matter, and the large-scale structure of the universe.
 
-![Large-scale structure of the universe from a cosmological simulation](https://apod.nasa.gov/apod/image/9811/lss_2df_960.jpg)
+![Large-scale structure of the universe](https://apod.nasa.gov/apod/image/9811/lss_2df_960.jpg)
+
+*Map of large-scale structure — surveys and simulations produce complex patterns that algorithms help analyze. (NASA APOD)*
 *The large-scale structure of the universe — the cosmic web of filaments and voids. Simulating its formation accurately requires methods that AI has made dramatically more tractable.*
 
 ---

@@ -25,7 +25,9 @@ You do **not** need to be a programmer yet.
 You only need to be **willing to think**.
 
 
-*Modern observatories collect more data every night than a human team could analyze in a lifetime. AI is how researchers keep up.*
+![Night sky from the International Space Station](https://apod.nasa.gov/apod/image/2108/PerseidIss_Vanderlei_960.jpg)
+
+*Modern observatories (and even views from orbit) remind us how much sky data exists — more than humans can label by hand. (NASA APOD)*
 
 ---
 
@@ -42,6 +44,10 @@ Today, a single survey telescope can photograph **billions of galaxies** in a fe
 No human team can process that.
 
 This is why AI entered astrophysics — not as a trend, but out of necessity. The universe is producing more information than we have hands to sort through.
+
+![Event Horizon Telescope black hole image](https://apod.nasa.gov/apod/image/2005/BlackHole_EHT.jpg)
+
+*The Event Horizon Telescope image of a black hole — the result of combining enormous datasets, a challenge where computation is essential. (EHT Collaboration / NASA APOD)*
 
 
 *Construction of the Square Kilometre Array — when complete, it will require AI just to handle the data flow.*

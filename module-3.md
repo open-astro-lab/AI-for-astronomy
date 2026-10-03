@@ -9,7 +9,13 @@ nav_order: 4
 
 In this module, you will train an Artificial Intelligence model capable of identifying different astronomical objects.
 
-By the end of this module, your AI will be able to distinguish between:
+By the end of this module, your AI will be able to distinguish between categories such as galaxies, nebulae, and stars — using real space images.
+
+![Orion Nebula star-forming region](https://apod.nasa.gov/apod/image/0601/orion_gendler_c1.jpg)
+
+*Nebulae, stars, and galaxies look different in images — that visual difference is what your classifier learns. (NASA APOD)*
+
+Your model will aim to distinguish between:
 
 * Galaxies
 * Nebulae
@@ -35,7 +41,7 @@ Website:
 
 Download the dataset below:
 
-https://www.kaggle.com/datasets/abhikalpsrivastava15/space-images-category
+[Space images category dataset on Kaggle](https://www.kaggle.com/datasets/abhikalpsrivastava15/space-images-category)
 
 After downloading:
 
@@ -142,6 +148,10 @@ Modern astronomers use machine learning to:
 The same concepts used in this activity are applied to real astronomical research.
 
 ---
+![Crab Nebula](https://apod.nasa.gov/apod/image/1609/CrabNebula_Hubble_960.jpg)
+
+*Example of a complex nebula image — useful practice data when you expand categories. (Hubble / NASA APOD)*
+
 ## Challenge Activity
 
 Now that you have successfully trained your first astronomy AI model, try improving it by adding new categories.
