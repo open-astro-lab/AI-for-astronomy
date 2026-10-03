@@ -25,7 +25,7 @@ You do **not** need to be a programmer yet.
 You only need to be **willing to think**.
 
 
-<img src="/AI-for-astronomy/assets/images/milkyway.jpg" alt="Night sky from the International Space Station" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
+![Night sky from the International Space Station](milkyway.jpg)
 
 *Modern observatories (and even views from orbit) remind us how much sky data exists — more than humans can label by hand. (ESA/Hubble)*
 
@@ -45,7 +45,7 @@ No human team can process that.
 
 This is why AI entered astrophysics — not as a trend, but out of necessity. The universe is producing more information than we have hands to sort through.
 
-<img src="/AI-for-astronomy/assets/images/galaxy_deep.jpg" alt="Event Horizon Telescope black hole image" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
+![Event Horizon Telescope black hole image](galaxy_deep.jpg)
 
 *The Event Horizon Telescope image of a black hole — the result of combining enormous datasets, a challenge where computation is essential. (ESA/Hubble deep field — large datasets drive modern analysis)*
 
