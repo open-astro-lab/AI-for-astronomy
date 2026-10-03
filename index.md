@@ -11,7 +11,7 @@ permalink: /
 A practical introduction to **artificial intelligence** and how it helps astronomers analyze data, classify objects, and explore the universe.
 {: .fs-6 .fw-300 }
 
-![Andromeda Galaxy](https://apod.nasa.gov/apod/image/1209/andromeda_gendler_960.jpg)
+![Andromeda Galaxy]({{ site.baseurl }}/assets/images/andromeda.jpg)
 
 *The Andromeda Galaxy — surveys produce vast image sets that AI helps classify and explore. (NASA APOD)*
 

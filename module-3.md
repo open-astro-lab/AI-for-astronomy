@@ -11,7 +11,7 @@ In this module, you will train an Artificial Intelligence model capable of ident
 
 By the end of this module, your AI will be able to distinguish between categories such as galaxies, nebulae, and stars — using real space images.
 
-![Orion Nebula star-forming region](https://apod.nasa.gov/apod/image/0601/orion_gendler_c1.jpg)
+![Orion Nebula star-forming region]({{ site.baseurl }}/assets/images/orion.jpg)
 
 *Nebulae, stars, and galaxies look different in images — that visual difference is what your classifier learns. (NASA APOD)*
 
@@ -148,7 +148,7 @@ Modern astronomers use machine learning to:
 The same concepts used in this activity are applied to real astronomical research.
 
 ---
-![Crab Nebula](https://apod.nasa.gov/apod/image/1609/CrabNebula_Hubble_960.jpg)
+![Crab Nebula]({{ site.baseurl }}/assets/images/crab.jpg)
 
 *Example of a complex nebula image — useful practice data when you expand categories. (Hubble / NASA APOD)*
 
