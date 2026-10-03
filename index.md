@@ -11,8 +11,8 @@ permalink: /
 A practical introduction to **artificial intelligence** and how it helps astronomers analyze data, classify objects, and explore the universe.
 {: .fs-6 .fw-300 }
 
-[Start Module 1](module-1.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Jump to Module 3 project](module-3.html){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Start Module 1](module-1/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Jump to Module 3 project](module-3/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -50,9 +50,9 @@ We explain ideas in plain language first, then you build.
 
 ## Learning path
 
-1. [**Module 1 — What is AI?**](module-1.html) — Foundations of machine learning  
-2. [**Module 2 — AI in astronomy**](module-2.html) — Real research applications  
-3. [**Module 3 — Build your first astronomy AI**](module-3.html) — Hands-on Teachable Machine project  
+1. [**Module 1 — What is AI?**](module-1/) — Foundations of machine learning  
+2. [**Module 2 — AI in astronomy**](module-2/) — Real research applications  
+3. [**Module 3 — Build your first astronomy AI**](module-3/) — Hands-on Teachable Machine project  
 
 ---
 

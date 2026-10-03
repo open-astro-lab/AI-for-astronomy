@@ -274,4 +274,4 @@ You can also mention your project in an email to **kripitasrivat@gmail.com** if 
 
 ---
 
-[← Module 2](module-2.html) · [Course home](index.html)
+[← Module 2](module-2/) · [Course home](./)

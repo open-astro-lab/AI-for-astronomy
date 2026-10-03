@@ -185,4 +185,4 @@ Understanding that one sentence puts you ahead of most people who use these tool
 In one short paragraph, answer: *What is machine learning, in your own words?*  
 Keep that note for yourself — Module 2 builds on it.
 
-[Next: Module 2 — AI in astronomy →](module-2.html){: .btn .btn-primary }
+[Next: Module 2 — AI in astronomy →](module-2/){: .btn .btn-primary }
