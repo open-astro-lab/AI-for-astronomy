@@ -1,13 +1,69 @@
+---
+title: Home
+nav_order: 1
+description: Free course on artificial intelligence applications in astronomy.
+permalink: /
+---
+
 # AI for Astronomy
+{: .fs-9 }
 
-This course introduces the exciting field of Artificial Intelligence (AI) and its applications in astronomy. You will first learn the fundamentals of AI, including key concepts, techniques, and tools used in modern machine learning and data analysis. The course then explores how AI is transforming astronomy by helping scientists analyze large datasets, identify celestial objects, classify galaxies, detect exoplanets, and make new discoveries about the universe.
+A practical introduction to **artificial intelligence** and how it helps astronomers analyze data, classify objects, and explore the universe.
+{: .fs-6 .fw-300 }
 
-Through hands-on examples and projects, you will learn how to apply AI techniques to real astronomical data and develop your own AI-powered astronomy projects. Whether you are a beginner in AI, astronomy, or both, this course provides a practical pathway to understanding how these two fields work together to advance our knowledge of the cosmos.
-Note- Please mail your final program that you create to me at kripitasrivat@gmail.com to avail your certificate of completion.
+[Start Module 1](module-1.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Jump to Module 3 project](module-3.html){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+---
 
-## Modules- Proceed one by one, starting with module 1
+## How this course works
 
-- [Module 1](module-1.md)
-- [Module 2](module-2.md)
-- [Module 3](module-3.md)
+| Step | What you do |
+|:----:|:------------|
+| **1. Enroll** | Register free via the [Open Astro Physics Lab form](https://tally.so/r/xX75PJ) |
+| **2. Learn here** | Complete Modules 1 → 2 → 3 on this site |
+| **3. Graduate** | Finish the hands-on project and submit the [graduation form](https://tally.so/r/PdVor1) for your certificate |
+
+Study at your own pace. Certificate requests are reviewed and sent by email.
+
+---
+
+## Who this is for
+
+- Beginners in **AI**, **astronomy**, or both  
+- Students who want a **project** they can show (science fair, portfolio, club)  
+- Anyone curious how machine learning meets telescope data  
+
+**No advanced mathematics or prior AI experience is required.**  
+We explain ideas in plain language first, then you build.
+
+---
+
+## What you will learn
+
+- What AI and machine learning actually mean (without the hype)  
+- Why astronomy needs automated pattern recognition  
+- Where AI is used: galaxies, exoplanets, transients, surveys  
+- How to train a simple image classifier on space images (Module 3)  
+
+---
+
+## Learning path
+
+1. [**Module 1 — What is AI?**](module-1.html) — Foundations of machine learning  
+2. [**Module 2 — AI in astronomy**](module-2.html) — Real research applications  
+3. [**Module 3 — Build your first astronomy AI**](module-3.html) — Hands-on Teachable Machine project  
+
+---
+
+## Certificate
+
+After you complete the modules and your project, submit:
+
+[Graduation form](https://tally.so/r/PdVor1){: .btn .btn-primary }
+
+You may also email project notes to **kripitasrivat@gmail.com** if the form asks for extra detail. Certificates are issued **manually** after review.
+
+---
+
+<p align="center"><em>Part of <a href="https://openastrophysicslab.wixsite.com/open-astro-physics-l">Open Astro Physics Lab</a></em></p>

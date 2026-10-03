@@ -1,5 +1,6 @@
 ---
-
+title: Module 1 — What is AI?
+nav_order: 2
 ---
 
 # AI for Astrophysics — Module 1
@@ -11,7 +12,12 @@
 ## Who is this for?
 
 This module is for **anyone** — no background in AI, statistics, or advanced mathematics required.
-Video lecture- https://drive.google.com/file/d/1uNg7NDBbyIGhfP8pB1B5JmnKNAUxkPI3/view?usp=sharing
+### 🎥 Video lecture
+
+[Watch Module 1 lecture (Google Drive)](https://drive.google.com/file/d/1uNg7NDBbyIGhfP8pB1B5JmnKNAUxkPI3/view?usp=sharing)
+
+> Open the link, watch at your own pace, then return here to continue reading.
+
 
 If you have ever heard terms like "machine learning," "neural network," or "deep learning" and wondered what they actually mean beneath the buzzwords, this is where you find out.
 
@@ -172,4 +178,11 @@ Understanding that one sentence puts you ahead of most people who use these tool
 
 ---
 
-This site is open source. [Improve this page](https://github.com/open-astro-lab/ai-for-astrophysics/edit/main/docs/module-1.md)
+---
+
+## ✅ Before you continue
+
+In one short paragraph, answer: *What is machine learning, in your own words?*  
+Keep that note for yourself — Module 2 builds on it.
+
+[Next: Module 2 — AI in astronomy →](module-2.html){: .btn .btn-primary }

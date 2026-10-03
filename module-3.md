@@ -1,4 +1,9 @@
----# Module 3: Build Your First Astronomy AI
+---
+title: Module 3 — Build your astronomy AI
+nav_order: 4
+---
+
+# Module 3: Build Your First Astronomy AI
 
 ## Objective
 
@@ -22,7 +27,7 @@ Instead of writing code, you train the model by providing examples.
 
 Website:
 
-https://teachablemachine.withgoogle.com/
+[https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/)
 
 ---
 
@@ -48,7 +53,7 @@ After downloading:
 
 Go to:
 
-https://teachablemachine.withgoogle.com/
+[https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/)
 
 Click:
 
@@ -245,5 +250,28 @@ Take a moment to experiment with additional categories and see how far you can p
 
 ---
 
+---
 
+## 🎓 Final graduation assignment
 
+You have trained an astronomy image classifier — the same basic workflow used in many real systems:
+
+1. Collect data  
+2. Organize categories  
+3. Train  
+4. Test  
+5. Improve  
+
+**To request your free certificate:**
+
+1. Finish your model and (optionally) try extra categories from the challenge section  
+2. Open the graduation form and submit  
+3. Your certificate will be sent **manually by email** after review  
+
+[Submit graduation form](https://tally.so/r/PdVor1){: .btn .btn-primary }
+
+You can also mention your project in an email to **kripitasrivat@gmail.com** if you want to share a screenshot or link.
+
+---
+
+[← Module 2](module-2.html) · [Course home](index.html)

@@ -1,5 +1,6 @@
 ---
-
+title: Module 2 — AI in astronomy
+nav_order: 3
 ---
 
 # AI for Astrophysics — Module 2
@@ -11,7 +12,10 @@
 ## From concept to practice
 
 In Module 1, you learned what machine learning is at its core: systems that find patterns in data by learning from examples.
-Video lecture- https://drive.google.com/file/d/1l4W_3hApeXjqxXHPpY2uRHm0cazERpWu/view?usp=sharing
+### 🎥 Video lecture
+
+[Watch Module 2 lecture (Google Drive)](https://drive.google.com/file/d/1l4W_3hApeXjqxXHPpY2uRHm0cazERpWu/view?usp=sharing)
+
 
 
 Now the question is: what does that actually look like when applied to real astrophysics?
@@ -167,4 +171,15 @@ You will build a neural network in Python that classifies stars using real data 
 
 ---
 
-This site is open source. [Improve this page](https://github.com/open-astro-lab/ai-for-astrophysics/edit/main/docs/module-2.md)
+---
+
+## ✅ Check-in milestone (halfway)
+
+Before the hands-on project in Module 3:
+
+1. Name **two** astronomy problems where AI is useful  
+2. Write one risk of trusting a model trained on limited data  
+
+Optional: email your notes to **kripitasrivat@gmail.com** with subject `AI for Astronomy — Module 2 check-in`.
+
+[Next: Module 3 — Build your first astronomy AI →](module-3.html){: .btn .btn-primary }
