@@ -40,7 +40,7 @@ This is a **supervised learning** problem. Researchers trained convolutional neu
 
 After training on hundreds of thousands of labeled images, the network learned to classify galaxies as accurately as a human expert, in a fraction of the time.
 
-![Spiral galaxy M51 Whirlpool]({{ site.baseurl }}/assets/images/whirlpool.jpg)
+<img src="/AI-for-astronomy/assets/images/whirlpool.jpg" alt="Spiral galaxy M51 Whirlpool" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
 
 *Spiral structure like the Whirlpool Galaxy is one of the morphology classes AI models learn to recognize. (Hubble / NASA APOD)*
 
@@ -126,7 +126,7 @@ Researchers train neural networks on a smaller number of full simulations, then 
 
 This approach, sometimes called **neural network emulation**, has reduced the computational cost of parameter estimation in cosmology by orders of magnitude. It is now used to constrain the properties of dark energy, dark matter, and the large-scale structure of the universe.
 
-![Large-scale structure of the universe]({{ site.baseurl }}/assets/images/galaxy_deep.jpg)
+<img src="/AI-for-astronomy/assets/images/galaxy_deep.jpg" alt="Large-scale structure of the universe" style="max-width:100%;height:auto;border-radius:8px;margin:1rem 0;display:block;" />
 
 *Map of large-scale structure — surveys and simulations produce complex patterns that algorithms help analyze. (NASA APOD)*
 *The large-scale structure of the universe — the cosmic web of filaments and voids. Simulating its formation accurately requires methods that AI has made dramatically more tractable.*
