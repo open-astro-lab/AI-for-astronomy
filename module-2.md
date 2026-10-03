@@ -182,4 +182,4 @@ Before the hands-on project in Module 3:
 
 Optional: email your notes to **kripitasrivat@gmail.com** with subject `AI for Astronomy — Module 2 check-in`.
 
-[Next: Module 3 — Build your first astronomy AI →](module-3/){: .btn .btn-primary }
+[Next: Module 3 — Build your first astronomy AI →]({{ site.baseurl }}/module-3/){: .btn .btn-primary }
